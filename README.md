@@ -7,39 +7,34 @@
 
 ### Stack
 
-**React-Native**
-**Expo**
-**Virtual Device : I-phone Xr**
+- **React-Native**
+- **Expo**
+- **Virtual Device : I-phone Xr**
 
+1. npm install
+2. expo start
 
 
 
 
 ### 폴더 구조
 
-**Src**
-**—common** - 공용 컴포넌트
-----Bar
-----CommonButton
-**—components** - 컴포넌트 모음
-----Bottom
-----Main
-------Carousel
---------Gallery
---------IndividualImage
---------SwipeButtons
-------ClickedImage
-----Top
---data - dummy data 모음
---utils - util 모음
-**App.js**
+- **Src**
+- **—common** - 공용 컴포넌트 (Bar, CommonButton)
+- **—components** - 컴포넌트 모음
+- ---- Bottom
+- ---- Main (Carousel,Gallery, IndividualImage, SwipeButtons, ClickedImage)
+- ---- Top
+- (data - dummy data 모음 / utils - util 모음)
+- **App.js**
 
 
 ### 기능
 
-**Carousel** - 갤러리가 자동으로 회전목마처럼 무한정 회전합니다.
-**Swipe** - 갤러리를 화살표 버튼을 클릭하여 움직일 수 있습니다.
-**Click Image** - 갤러리의 사진을 클릭하면 클릭된 사진이 위에 나타납니다.
+
+- **Carousel** - 갤러리가 자동으로 회전목마처럼 무한정 회전합니다.
+- **Swipe** - 갤러리를 화살표 버튼을 클릭하여 움직일 수 있습니다.
+- **Click Image** - 갤러리의 사진을 클릭하면 클릭된 사진이 위에 나타납니다.
 
 ### 제작 이유
 
